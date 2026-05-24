@@ -46,7 +46,7 @@ myDog.showInfo();
 
 console.log("\n--- Попытка установить отрицательный возраст ---");
 myDog.setAge(-1);
-myDog.showInfo(); // возраст останется 4
+myDog.showInfo();
 
 console.log("\n--- Создаём собаку через Dog.createDog() ---");
 const anotherDog = Dog.createDog("Бобик", "Дворняга", 5);
