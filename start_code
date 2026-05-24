@@ -1,0 +1,1 @@
+ts-node --compiler-options '{"module":"commonjs"}' variant3.ts
