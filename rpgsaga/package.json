@@ -1,0 +1,19 @@
+{
+  "name": "rpgsaga",
+  "version": "1.0.0",
+  "description": "Коротко о том что внутри src/\tКорневая папка    models/ \tPlayer.ts \tKnight.ts \tArcher.ts \tMage.ts    services/ \tLogger.ts - код для логирования \tGame.ts - код игрового процесса    tests/ \tgame.test.ts - код unit тестов    index.ts - центральный код (начальник всего тут)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.9.1",
+    "jest": "^30.4.2",
+    "ts-jest": "^29.4.11",
+    "typescript": "^6.0.3"
+  }
+}
